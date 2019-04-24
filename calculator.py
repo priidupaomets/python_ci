@@ -9,3 +9,7 @@ def add(first, second):
 
 def subtract(first, second):
     return first - second
+
+
+def multiply(first_term, second_term):
+    return first_term * second_term

@@ -17,3 +17,6 @@ def multiply(first_term, second_term):
 
 def divide(divisible, divider):
     return divisible / divider
+
+def square(number):
+    return n**2

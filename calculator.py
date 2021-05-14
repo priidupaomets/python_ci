@@ -22,5 +22,6 @@ def divide(divisible, divider):
 def square(number):
     return number**2
 
+
 def test():
     pass
